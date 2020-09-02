@@ -4,7 +4,7 @@
 
 `empowerment-visualization.xlsx` is a spreadsheet to graph the data provided from the Circles in Soup exercise, where the theme is empowerment.
 
-Circles in Soup is an activity that was introduced by [Diana Larsen]( https://twitter.com/DianaOfPortland ) as a retrospective technique.
+Circles and Soup is an activity that was introduced by [Diana Larsen]( https://twitter.com/DianaOfPortland ) as a retrospective technique.
 
 This spreadsheet was a collaboration of work done by Mathew Carlson, Mike Vitale, and Skylar Watson.
 
