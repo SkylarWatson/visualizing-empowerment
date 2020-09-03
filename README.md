@@ -2,7 +2,7 @@
 
 ## Description
 
-`empowerment-visualization.xlsx` is a spreadsheet to graph the data provided from the Circles in Soup exercise, where the theme is empowerment.
+`empowerment-visualization.xlsx` is a spreadsheet to graph the data provided from the [Circles and Soup](https://www.tastycupcakes.org/2011/08/circles-and-soup/) exercise, where the theme is empowerment.
 
 Circles and Soup is an activity that was introduced by [Diana Larsen]( https://twitter.com/DianaOfPortland ) as a retrospective technique.
 
